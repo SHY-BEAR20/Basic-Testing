@@ -1,0 +1,29 @@
+body{
+    background-color: darkgray;
+}
+table{
+    width: 100%;
+}
+th{
+    border: 1px solid black;
+}
+td{
+    border: 1px solid black;
+    text-align: center;
+}
+.img1{
+    border-radius: 50%;
+    height:30vh ;
+    
+}
+.img{
+    display: flex;
+    /* justify-content: space-around; */
+}
+.our-p{
+    margin-top: 10rem;
+    padding-left: 4rem;
+}
+.tz{
+    width: 0%;
+}
